@@ -1,1 +1,4 @@
 MyParameterized class can help to customize Parameterized test label. You can change the default [Test class].runTest[n] to something meaningful. 
+
+OriginalTest.java is a test using junit Parameterized.
+NewTest.java is a test using MyParameterized.
